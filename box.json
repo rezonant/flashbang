@@ -1,0 +1,10 @@
+{
+	"files": ["main.php", "core.php", "LICENSE", "README"],
+    "directories": ["src", "vendor"],
+    "git-commit": "git-commit",
+    "git-version": "git-version",
+    "main": "main.php",
+    "output": "flashbang-@git-version@.phar",
+    "stub": true
+}
+

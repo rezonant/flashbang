@@ -1,0 +1,16 @@
+{
+    "name": "vendor/flashbang",
+    "description": "Description of project flashbang.",
+    "authors": [
+        {
+            "name": "William Lahti",
+            "email": "wilahti@gmail.com"
+        }
+    ],
+    "require": {
+        "gleez/autoloader": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    }
+}

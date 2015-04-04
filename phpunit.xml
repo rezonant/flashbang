@@ -1,0 +1,2 @@
+<phpunit bootstrap="core.php">
+</phpunit>
