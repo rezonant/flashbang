@@ -11,6 +11,7 @@
         "gleez/autoloader": "dev-master"
     },
     "require-dev": {
-        "phpunit/phpunit": "dev-master"
+        "phpunit/phpunit": "dev-master",
+        "phpunit/phpunit-mock-objects": "dev-master"
     }
 }
